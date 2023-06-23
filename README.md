@@ -1,6 +1,4 @@
-
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
-
+Hello World
 ## Introduction
 The demand for Next.js  applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next js has to offer, leveraging features such as server-side rendering and the app router. 
 
