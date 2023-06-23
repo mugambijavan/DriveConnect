@@ -16,6 +16,6 @@ Alongside building this application, you'll also learn how to:
 - Maintain a well-organized file and folder structure.
 - Embrace the principles of writing clean code.
 
- Software Engineer. Guaranteed.
+ Software Engineer.
 
  https://cahmyrrh-lmpt-git-main-mugambijavan.vercel.app/
