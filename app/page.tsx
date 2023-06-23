@@ -20,8 +20,8 @@ export default async function Home({ searchParams }: HomeProps) {
 
       <div className='mt-12 padding-x padding-y max-width' id='discover'>
         <div className='home__text-container'>
-          <h1 className='text-4xl font-extrabold'>Car Catalogue</h1>
-          <p>Explore out cars you might like</p>
+          <h1 className='text-4xl font-extrabold'>Car Lineup</h1>
+          <p>Delve into a World of Cars You Might Like</p>
         </div>
 
         <div className='home__filters'>
@@ -48,7 +48,7 @@ export default async function Home({ searchParams }: HomeProps) {
           </section>
         ) : (
           <div className='home__error-container'>
-            <h2 className='text-black text-xl font-bold'>Oops, no results</h2>
+            <h2 className='text-black text-xl font-bold'>No results found. Please try again with different search criteria.</h2>
             <p>{allCars?.message}</p>
           </div>
         )}
