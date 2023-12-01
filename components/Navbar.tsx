@@ -17,7 +17,7 @@ const NavBar = () => (
       </Link>
 
       <CustomButton
-        title='Sign in'
+        title='BhakitahTech'
         btnType='button'
         containerStyles='text-primary-blue rounded-full bg-white min-w-[130px]'
       />
